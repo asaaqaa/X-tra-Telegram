@@ -1,1 +1,1 @@
-web: python -m userbot
+worker: bash free
